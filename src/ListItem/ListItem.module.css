@@ -1,0 +1,12 @@
+.listItem {
+  width: 500px;
+}
+
+.button {
+  margin-left: 2rem;
+  background-color: lightgray;
+  width: 4rem;
+  height: 1.3rem;
+  font-weight: bolder;
+  float: right;
+}
